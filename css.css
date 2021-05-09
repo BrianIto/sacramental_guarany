@@ -5,8 +5,8 @@
 	div {
 		min-height: 20vh;
 	}
-	div > h1 {
-		font-size: 35px;
+	div > form > h1 {
+		font-size: 18px;
 	}
 
 }
